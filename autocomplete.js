@@ -57,13 +57,13 @@ const songTitles = [
 
 // To Pimp a Butterfly
     "Wesley's Theory",
-    "For Free (Interlude)",
+    "For Free? (Interlude)",
     "King Kunta",
     "Institutionalized",
     "These Walls",
     "u",
     "Alright",
-    "For Sale (Interlude)",
+    "For Sale? (Interlude)",
     "Momma",
     "Hood Politics",
     "How Much a Dollar Cost",

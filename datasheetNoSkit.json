@@ -2,7 +2,7 @@
 
     "songs":
 {
-    "The Heart Part 2": {
+    "The Heart Pt. 2": {
       "title": "The Heart Pt. 2",
       "album": 1,
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
@@ -114,8 +114,8 @@
       "length": 192,
       "features": ["Alori Joh"]
     },
-    "She Needs Me (remix)": {
-      "title": "She Needs Me (remix)",
+    "She Needs Me (Remix)": {
+      "title": "She Needs Me (Remix)",
       "album": 1,
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 15,
@@ -322,7 +322,7 @@
       "length": 350,
       "features": ["MC Eiht"]
     },
-    "Swimming Pools": {
+    "Swimming Pools (Drank)": {
       "title": "Swimming Pools (Drank)",
       "album": 3,
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
@@ -482,7 +482,7 @@
       "length": 261,
       "features": ["James Fauntleroy", "Ronald Isley"]
     },
-    "Complexion": {
+    "Complexion (A Zulu Love)": {
       "title": "Complexion (A Zulu Love)",
       "album": 4,
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
@@ -498,7 +498,7 @@
       "length": 328,
       "features": [""]
     },
-    "You Ain't Gotta Lie": {
+    "You Ain't Gotta Lie (Momma Said)": {
       "title": "You Ain't Gotta Lie (Momma Said)",
       "album": 4,
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
@@ -746,7 +746,7 @@
       "length": 209,
       "features": ["Jorja Smith"]
     },
-    "Paramedic": {
+    "Paramedic!": {
       "title": "Paramedic!",
       "album": 7,
       "cover": "https://upload.wikimedia.org/wikipedia/en/c/c1/Black_Panther_-_The_Album_cover.png",
@@ -1078,7 +1078,7 @@
             "12":{"title":"H.O.C"},
             "13":{"title":"Cut You Off (To Grow Closer)"},
             "14":{"title":"Heaven & Hell"},
-            "15":{"title":"She Needs Me (remix)"},
+            "15":{"title":"She Needs Me (Remix)"},
             "16":{"title":"I Do This (Remix)"},
             "17":{"title":"Fuck Your Ethnicity"},
             "18":{"title":"Hol' Up"},
@@ -1104,7 +1104,7 @@
             "38":{"title":"Poetic Justice"},
             "39":{"title":"Good Kid"},
             "40":{"title":"M.A.A.D City"},
-            "41":{"title":"Swimming Pools"},
+            "41":{"title":"Swimming Pools (Drank)"},
             "42":{"title":"Sing About Me, I'm Dying of Thirst"},
             "43":{"title":"Real"},
             "44":{"title":"Compton"},
@@ -1124,9 +1124,9 @@
             "58":{"title":"Momma"},
             "59":{"title":"Hood Politics"},
             "60":{"title":"How Much a Dollar Cost"},
-            "61":{"title":"Complexion"},
+            "61":{"title":"Complexion (A Zulu Love)"},
             "62":{"title":"The Blacker the Berry"},
-            "63":{"title":"You Ain't Gotta Lie"},
+            "63":{"title":"You Ain't Gotta Lie (Momma Said)"},
             "64":{"title":"i"},
             "65":{"title":"Mortal Man"},
             "66":{"title":"Untitled 01 | 08.19.2014."},

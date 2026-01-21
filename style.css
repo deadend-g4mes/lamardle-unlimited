@@ -1219,3 +1219,7 @@ ul {
   color: #fff;
   font-family: SYNE;
 }
+
+input::placeholder {
+    font-size: 15px; /* Change to your desired size */
+}

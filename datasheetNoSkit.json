@@ -6,6 +6,7 @@
       "title": "The Heart Pt. 2",
       "album": 1,
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
+      "track": 1,
       "length": 294,
       "features": ["Dash Snow"]
     },
@@ -13,15 +14,17 @@
       "title": "Growing Apart (To Get Closer)",
       "album": 1,
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
+      "track": 2,
       "length": 221,
-      "features": []
+      "features": [""]
     },
     "Night of the Living Junkies": {
       "title": "Night of the Living Junkies",
       "album": 1,
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
+      "track": 3,
       "length": 212,
-      "features": []
+      "features": [""]
     },
     "P&P 1.5": {
       "title": "P&P 1.5",
@@ -37,7 +40,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 5,
       "length": 240,
-      "features": []        
+      "features": [""]        
     },
     "Opposites Attract (Tomorrow, W/O Her)": {
       "title": "Opposites Attract (Tomorrow, W/O Her)",
@@ -61,7 +64,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 8,
       "length": 208,
-      "features": []
+      "features": [""]
     },
     "R.O.T.C. (Interlude)": {
       "title": "R.O.T.C. (Interlude)",
@@ -85,7 +88,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 11,
       "length": 256,
-      "features": []
+      "features": [""]
     },
     "H.O.C": {
       "title": "H.O.C",
@@ -93,7 +96,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 12,
       "length": 317,
-      "features": []
+      "features": [""]
     },
     "Cut You Off (To Grow Closer)": {
       "title": "Cut You Off (To Grow Closer)",
@@ -101,7 +104,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg",
       "track": 13,
       "length": 364,
-      "features": []
+      "features": [""]
     },
     "Heaven & Hell": {
       "title": "Heaven & Hell",
@@ -133,7 +136,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 1,
       "length": 224,
-      "features": []
+      "features": [""]
     },
     "Hol' Up": {
       "title": "Hol' Up",
@@ -141,7 +144,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 2,
       "length": 173,
-      "features": []
+      "features": [""]
     },
     "A.D.H.D": {
       "title": "A.D.H.D",
@@ -149,7 +152,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 3,
       "length": 215,
-      "features": []
+      "features": [""]
     },
     "No Make-Up (Her Vice)": {
       "title": "No Make-Up (Her Vice)",
@@ -165,7 +168,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 5,
       "length": 161,
-      "features": []
+      "features": [""]
     },
     "Chapter Six": {
       "title": "Chapter Six",
@@ -173,7 +176,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 6,
       "length": 161,
-      "features": []
+      "features": [""]
     },
     "Ronald Reagan Era (His Evils)": {
       "title": "Ronald Reagan Era (His Evils)",
@@ -181,7 +184,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 7,
       "length": 216,
-      "features": []
+      "features": [""]
     },
     "Poe Mans Dreams (His Vice)": {
       "title": "Poe Mans Dreams (His Vice)",
@@ -205,7 +208,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 10,
       "length": 75,
-      "features": []
+      "features": [""]
     },
     "Keisha's Song (Her Pain)": {
       "title": "Keisha's Song (Her Pain)",
@@ -221,7 +224,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 12,
       "length": 168,
-      "features": []
+      "features": [""]
     },
     "Kush & Corinthians (His Pain)": {
       "title": "Kush & Corinthians (His Pain)",
@@ -237,7 +240,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 14,
       "length": 215,
-      "features": []
+      "features": [""]
     },
     "Ab-Soul's Outro": {
       "title": "Ab-Soul's Outro",
@@ -253,7 +256,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
       "track": 16,
       "length": 279,
-      "features": []
+      "features": [""]
     },
     "Sherane A.K.A Master Splinter's Daughter": {
       "title": "Sherane A.K.A Master Splinter's Daughter",
@@ -261,7 +264,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 1,
       "length": 273,
-      "features": []
+      "features": [""]
     },
     "Bitch, Don't Kill My Vibe": {
       "title": "Bitch, Don't Kill My Vibe",
@@ -269,7 +272,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 2,
       "length": 310,
-      "features": []
+      "features": [""]
     },
     "Backseat Freestyle": {
       "title": "Backseat Freestyle",
@@ -277,7 +280,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 3,
       "length": 212,
-      "features": []
+      "features": [""]
     },
     "The Art of Peer Pressure": {
       "title": "The Art of Peer Pressure",
@@ -285,7 +288,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 4,
       "length": 324,
-      "features": []
+      "features": [""]
     },
     "Money Trees": {
       "title": "Money Trees",
@@ -309,7 +312,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 7,
       "length": 214,
-      "features": []
+      "features": [""]
     },
     "M.A.A.D City": {
       "title": "M.A.A.D City",
@@ -325,7 +328,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 9,
       "length": 313,
-      "features": []
+      "features": [""]
     },
     "Sing About Me, I'm Dying of Thirst": {
       "title": "Sing About Me, I'm Dying of Thirst",
@@ -333,7 +336,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 10,
       "length": 723,
-      "features": []
+      "features": [""]
     },
     "Real": {
       "title": "Real",
@@ -365,7 +368,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
       "track": 14,
       "length": 278,
-      "features": []
+      "features": [""]
     },
     "Now or Never": {
       "title": "Now or Never",
@@ -405,7 +408,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 2,
       "length": 130,
-      "features": []
+      "features": [""]
     },
     "King Kunta": {
       "title": "King Kunta",
@@ -413,7 +416,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 3,
       "length": 234,
-      "features": []
+      "features": [""]
     },
     "Institutionalized": {
       "title": "Institutionalized",
@@ -437,7 +440,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 6,
       "length": 268,
-      "features": []
+      "features": [""]
     },
     "Alright": {
       "title": "Alright",
@@ -445,7 +448,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 7,
       "length": 219,
-      "features": []
+      "features": [""]
     },
     "For Sale": {
       "title": "For Sale? (Interlude)",
@@ -453,7 +456,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 8,
       "length": 291,
-      "features": []
+      "features": [""]
     },
     "Momma": {
       "title": "Momma",
@@ -461,7 +464,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 9,
       "length": 283,
-      "features": []
+      "features": [""]
     },
     "Hood Politics": {
       "title": "Hood Politics",
@@ -469,7 +472,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 10,
       "length": 292,
-      "features": []
+      "features": [""]
     },
     "How Much a Dollar Cost": {
       "title": "How Much a Dollar Cost",
@@ -493,7 +496,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 13,
       "length": 328,
-      "features": []
+      "features": [""]
     },
     "You Ain't Gotta Lie": {
       "title": "You Ain't Gotta Lie (Momma Said)",
@@ -501,7 +504,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 14,
       "length": 241,
-      "features": []
+      "features": [""]
     },
     "i": {
       "title": "i",
@@ -509,7 +512,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 15,
       "length": 336,
-      "features": []
+      "features": [""]
     },
     "Mortal Man": {
       "title": "Mortal Man",
@@ -517,7 +520,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 16,
       "length": 727,
-      "features": []
+      "features": [""]
     },
     "Untitled 01 | 08.19.2014.": {
       "title": "Untitled 01 | 08.19.2014.",
@@ -525,7 +528,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 1,
       "length": 247,
-      "features": []
+      "features": [""]
     },
     "Untitled 02 | 06.23.2014.": {
       "title": "Untitled 02 | 06.23.2014.",
@@ -533,7 +536,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 2,
       "length": 258,
-      "features": []
+      "features": [""]
     },
     "Untitled 03 | 05.28.2013.": {
       "title": "Untitled 03 | 05.28.2013.",
@@ -541,7 +544,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 3,
       "length": 154,
-      "features": []
+      "features": [""]
     },
     "Untitled 04 | 08.14.2014.": {
       "title": "Untitled 04 | 08.14.2014.",
@@ -549,7 +552,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 4,
       "length": 110,
-      "features": []
+      "features": [""]
     },
     "Untitled 05 | 09.21.2014.": {
       "title": "Untitled 05 | 09.21.2014.",
@@ -557,7 +560,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 5,
       "length": 338,
-      "features": []
+      "features": [""]
     },
     "Untitled 06 | 06.30.2014.": {
       "title": "Untitled 06 | 06.30.2014.",
@@ -565,7 +568,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 6,
       "length": 208,
-      "features": []
+      "features": [""]
     },
     "Untitled 07 | 2014–2016": {
       "title": "Untitled 07 | 2014–2016",
@@ -573,7 +576,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 7,
       "length": 496,
-      "features": []
+      "features": [""]
     },
     "Untitled 08 | 09.06.2014.": {
       "title": "Untitled 08 | 09.06.2014.",
@@ -581,7 +584,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Kendrick_Lamar_-_Untitled_Unmastered.jpg",
       "track": 8,
       "length": 235,
-      "features": []
+      "features": [""]
     },
     "BLOOD.": {
       "title": "BLOOD.",
@@ -589,7 +592,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 1,
       "length": 118,
-      "features": []
+      "features": [""]
     },
     "DNA.": {
       "title": "DNA.",
@@ -597,7 +600,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 2,
       "length": 185,
-      "features": []
+      "features": [""]
     },
     "YAH.": {
       "title": "YAH.",
@@ -605,7 +608,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 3,
       "length": 160,
-      "features": []
+      "features": [""]
     },
     "ELEMENT.": {
       "title": "ELEMENT.",
@@ -613,7 +616,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 4,
       "length": 208,
-      "features": []
+      "features": [""]
     },
     "FEEL.": {
       "title": "FEEL.",
@@ -621,7 +624,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 5,
       "length": 214,
-      "features": []
+      "features": [""]
     },
     "LOYALTY.": {
       "title": "LOYALTY.",
@@ -637,7 +640,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 7,
       "length": 275,
-      "features": []
+      "features": [""]
     },
     "HUMBLE.": {
       "title": "HUMBLE.",
@@ -645,7 +648,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 8,
       "length": 177,
-      "features": []
+      "features": [""]
     },
     "LUST.": {
       "title": "LUST.",
@@ -653,7 +656,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 9,
       "length": 327,
-      "features": []
+      "features": [""]
     },
     "LOVE.": {
       "title": "LOVE.",
@@ -677,7 +680,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 12,
       "length": 460,
-      "features": []
+      "features": [""]
     },
     "GOD.": {
       "title": "GOD.",
@@ -685,7 +688,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 13,
       "length": 268,
-      "features": []
+      "features": [""]
     },
     "DUCKWORTH.": {
       "title": "DUCKWORTH.",
@@ -693,7 +696,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png",
       "track": 14,
       "length": 248,
-      "features": []
+      "features": [""]
     },
     "Black Panther": {
       "title": "Black Panther",
@@ -701,7 +704,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/c/c1/Black_Panther_-_The_Album_cover.png",
       "track": 1,
       "length": 131,
-      "features": []
+      "features": [""]
     },
     "All the Stars": {
       "title": "All the Stars",
@@ -813,7 +816,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 1,
       "length": 255,
-      "features": []
+      "features": [""]
     },
     "N95": {
       "title": "N95",
@@ -821,7 +824,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 2,
       "length": 195,
-      "features": []
+      "features": [""]
     },
     "Worldwide Steppers": {
       "title": "Worldwide Steppers",
@@ -829,7 +832,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 3,
       "length": 203,
-      "features": []
+      "features": [""]
     },
     "Die Hard": {
       "title": "Die Hard",
@@ -853,7 +856,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 6,
       "length": 103,
-      "features": []
+      "features": [""]
     },
     "Rich Spirit": {
       "title": "Rich Spirit",
@@ -861,7 +864,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 7,
       "length": 202,
-      "features": []
+      "features": [""]
     },
     "We Cry Together": {
       "title": "We Cry Together",
@@ -885,7 +888,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 10,
       "length": 283,
-      "features": []
+      "features": [""]
     },
     "Crown": {
       "title": "Crown",
@@ -893,7 +896,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 11,
       "length": 264,
-      "features": []
+      "features": [""]
     },
     "Silent Hill": {
       "title": "Silent Hill",
@@ -909,7 +912,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 13,
       "length": 152,
-      "features": []
+      "features": [""]
     },
     "Savior": {
       "title": "Savior",
@@ -925,7 +928,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 15,
       "length": 281,
-      "features": []
+      "features": [""]
     },
     "Mr. Morale": {
       "title": "Mr. Morale",
@@ -949,7 +952,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 18,
       "length": 256,
-      "features": []
+      "features": [""]
     },
     "The Heart Part 5": {
       "title": "The Heart Part 5",
@@ -957,7 +960,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png",
       "track": 19,
       "length": 332,
-      "features": []
+      "features": [""]
     },
     "Wacced Out Murals": {
       "title": "Wacced Out Murals",
@@ -965,7 +968,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png",
       "track": 1,
       "length": 317,
-      "features": []
+      "features": [""]
     },
     "Squabble Up": {
       "title": "Squabble Up",
@@ -973,7 +976,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png",
       "track": 2,
       "length": 157,
-      "features": []
+      "features": [""]
     },
     "Luther": {
       "title": "Luther",
@@ -989,7 +992,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png",
       "track": 4,
       "length": 233,
-      "features": []
+      "features": [""]
     },
     "Hey Now": {
       "title": "Hey Now",
@@ -1005,7 +1008,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png",
       "track": 6,
       "length": 275,
-      "features": []
+      "features": [""]
     },
     "TV Off": {
       "title": "TV Off",
@@ -1037,7 +1040,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png",
       "track": 10,
       "length": 292,
-      "features": []
+      "features": [""]
     },
     "GNX": {
       "title": "GNX",

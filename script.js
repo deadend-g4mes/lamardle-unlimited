@@ -67,7 +67,7 @@ const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
 yeezleDay = dateDiffInDays(aAdjusted, b) + 1;
 console.log(yeezleDay)
 
-searchInput.setAttribute('placeholder', 'Start by typing any Ye song!')
+searchInput.setAttribute('placeholder', 'Start by typing a Kendrick song!')
 showIntro()
 //initLocalStorage()
 sideStatistics()

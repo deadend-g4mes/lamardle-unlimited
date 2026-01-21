@@ -403,7 +403,7 @@
       "features": ["George Clinton", "Thundercat"]
     },
     "For Free": {
-      "title": "For Free? (Interlude)",
+      "title": "For Free (Interlude)",
       "album": 4,
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 2,
@@ -451,7 +451,7 @@
       "features": [""]
     },
     "For Sale": {
-      "title": "For Sale? (Interlude)",
+      "title": "For Sale (Interlude)",
       "album": 4,
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
       "track": 8,
@@ -1114,13 +1114,13 @@
             "48":{"title":"The Recipe (Black Hippy Remix)"},
             "49":{"title":"Bitch Don't Kill My Vibe - Remix"},
             "50":{"title":"Wesley's Theory"},
-            "51":{"title":"For Free? (Interlude)"},
+            "51":{"title":"For Free (Interlude)"},
             "52":{"title":"King Kunta"},
             "53":{"title":"Institutionalized"},
             "54":{"title":"These Walls"},
             "55":{"title":"u"},
             "56":{"title":"Alright"},
-            "57":{"title":"For Sale? (Interlude)"},
+            "57":{"title":"For Sale (Interlude)"},
             "58":{"title":"Momma"},
             "59":{"title":"Hood Politics"},
             "60":{"title":"How Much a Dollar Cost"},

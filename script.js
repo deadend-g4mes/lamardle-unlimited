@@ -6,6 +6,8 @@ let mysteryNumber = {}
 let mysterySong = {}
 let choiceSong = {}
 
+var choiceRandom = true;
+
 let irishSpring = false
 let guessedSongs = {}
 //let currentSongIndex = 0;
@@ -42,6 +44,15 @@ var dd = String(today.getDate()).padStart(2, '0');
 var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
 var yyyy = today.getFullYear();
 
+var todayUnradomized = new Date(Date.now());
+var todayUnradomizedDay = todayUnradomized.getDay();
+var todayUnradomizedMonth = todayUnradomized.getMonth();
+var todayUnradomizedYear = todayUnradomized.getFullYear();
+
+todayUnrandomized = todayUnradomizedMonth + "/" + todayUnradomizedDay + "/" + todayUnradomizedYear;
+
+console.log(todayUnradomizedDay)
+
 today = mm + '/' + dd + '/' + yyyy;
 
 
@@ -65,7 +76,7 @@ const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
 
 
 yeezleDay = dateDiffInDays(aAdjusted, b) + 1;
-console.log(yeezleDay)
+console.log(yeezleDay + " is the yeezle day number!")
 
 searchInput.setAttribute('placeholder', 'Start by typing a Kendrick song!')
 showIntro()
@@ -328,11 +339,18 @@ async function doubleTrouble() {
 
 // MUST BE SAME NUMBER AS OBJECTS IN JSON FILE. MATH SECTION. math section. Math Section.
 function newMysterySong() {
+
+    if (choiceRandom === true) {
+        Math.seedrandom(todayUnrandomized);
+        mysteryNumber = Math.floor(Math.random() * 131) + 1;
+        console.log("Randomized mystery number: " + mysteryNumber)
+        return
+    }
     Math.seedrandom(today);
     mysteryNumber = Math.floor(Math.random() * 131) + 1;
 
     console.log(today)
-    //console.log(mysteryNumber + " is created.");
+   // console.log(mysteryNumber + " is created.");
 }
 
 
@@ -737,7 +755,7 @@ function showShowResult() {
 }
 
 function playAgain() {
-
+    choiceRandom = false;
     guessButton.classList.add('disable')
     cardBackground.classList.add('hide')
     showShowButton.classList.remove('disable')

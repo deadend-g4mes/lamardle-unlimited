@@ -1106,7 +1106,7 @@ li {
 
 #play-again-button {
   position: absolute;
-  opacity: 0;
+  opacity: 100;
 }
 
 #share-score-button {

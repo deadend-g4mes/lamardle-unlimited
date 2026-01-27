@@ -278,6 +278,9 @@ function resetGameState() {
     localStorage.removeItem('winStatus')
     localStorage.removeItem('endyCard')
     localStorage.removeItem('mysterySong')
+    accGuessCount = {}
+    guessedSongs = {}
+    guessCount = 0
 }
 
 // set local storage på en var.
@@ -755,10 +758,14 @@ function showShowResult() {
 }
 
 function playAgain() {
+    console.log("Play Again Clicked")
+    searchInput.classList.remove('greyed')
     choiceRandom = false;
-    guessButton.classList.add('disable')
     cardBackground.classList.add('hide')
-    showShowButton.classList.remove('disable')
+    resultTable.innerHTML = ''
+    searchInput.setAttribute('placeholder', 'Start by typing a Kendrick song!')
+    resetGameState()
+    getRandomMysterySong()
 
 }
 

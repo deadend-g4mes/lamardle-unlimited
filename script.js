@@ -349,7 +349,6 @@ function newMysterySong() {
         console.log("Randomized mystery number: " + mysteryNumber)
         return
     }
-    Math.seedrandom(today);
     mysteryNumber = Math.floor(Math.random() * 131) + 1;
 
     console.log(today)

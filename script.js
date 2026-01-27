@@ -44,14 +44,14 @@ var dd = String(today.getDate()).padStart(2, '0');
 var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
 var yyyy = today.getFullYear();
 
-var todayUnradomized = new Date(Date.now());
-var todayUnradomizedDay = todayUnradomized.getDay();
-var todayUnradomizedMonth = todayUnradomized.getMonth();
-var todayUnradomizedYear = todayUnradomized.getFullYear();
+var todayUnrandomized = new Date(Date.now());
+var todayUnrandomizedDay = todayUnrandomized.getDay();
+var todayUnrandomizedMonth = todayUnrandomized.getMonth();
+var todayUnrandomizedYear = todayUnrandomized.getFullYear();
 
-todayUnrandomized = todayUnradomizedMonth + "/" + todayUnradomizedDay + "/" + todayUnradomizedYear;
+todayUnrandomized = todayUnrandomizedMonth + "/" + todayUnrandomizedDay + "/" + todayUnrandomizedYear;
 
-console.log(todayUnradomizedDay)
+console.log(todayUnrandomizedDay)
 
 today = mm + '/' + dd + '/' + yyyy;
 
@@ -349,6 +349,7 @@ function newMysterySong() {
         console.log("Randomized mystery number: " + mysteryNumber)
         return
     }
+    Math.seedrandom(today);
     mysteryNumber = Math.floor(Math.random() * 131) + 1;
 
     console.log(today)

@@ -735,6 +735,7 @@ function showMysterySong(correct) {
     cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title + " "
 
     if (mysterySong.features[0] === "") {
+        cardBackground.querySelector('#mystery-song-feature').innerText = ""
     }
     else {
         cardBackground.querySelector('#mystery-song-feature').innerText = "ft. [" + mysterySong.features + "]"

@@ -4,6 +4,10 @@
 import { DiscordSDK } from "@discord/embedded-app-sdk";
 const discordSdk = new DiscordSDK({ clientId: "1465072599385112578" });
 
+discordSdk.ready().then(() => {
+   console.log("Discord SDK is ready!");
+});
+
 var result = { "title": "DJ Khaled" }
 let mysteryNumber = {}
 let mysterySong = {}

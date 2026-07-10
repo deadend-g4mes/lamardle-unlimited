@@ -1,6 +1,9 @@
 
 // 47a4f79b-9bda-4259-8170-a0f390ee7443
 
+import { DiscordSDK } from "@discord/embedded-app-sdk";
+const discordSdk = new DiscordSDK({ clientId: "1465072599385112578" });
+
 var result = { "title": "DJ Khaled" }
 let mysteryNumber = {}
 let mysterySong = {}
